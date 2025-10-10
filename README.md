@@ -10,10 +10,6 @@ Proyecto de programación en Assembly para el curso de Arquitectura de Computado
 
 ### 📚 Páginas del Wiki
 
-Gabriel Osemberg
-
-Colab: https://colab.research.google.com/drive/1VY7ymPgDaFlETu_Sm0A8k3461iWCI0bc#scrollTo=P1LO_-fOh8eB
-
 - **[Home](../../wiki/Home)** - Descripción general, estructura, conceptos clave, recursos
 - **[Ejercicio 2: Factorial](../../wiki/Ejercicio-2-Factorial)** - Documentación completa de todas las 13 tareas
 - **[Guía de Navegación](../../wiki/Guia-de-Navegacion)** - Índice completo y búsqueda por temas
@@ -70,6 +66,7 @@ El Wiki contiene:
 
 **Responsable:** Gabriel Osemberg  
 **Estado:** Completado
+**Colab:** https://colab.research.google.com/drive/1VY7ymPgDaFlETu_Sm0A8k3461iWCI0bc#scrollTo=P1LO_-fOh8eB
 
 Implementación completa del algoritmo factorial en:
 
@@ -140,9 +137,9 @@ Para más comandos y detalles, consulta el [Wiki](../../wiki/Home#-cómo-usar-es
 
 ## 🎓 Información Académica
 
-**Universidad:** [Nombre de la Universidad]  
+**Universidad:** UPC Capilla del Monte
 **Curso:** Arquitectura de Computadoras  
-**Profesor:** [Nombre del Profesor]  
+**Profesor:** Narciso Perez
 **Período:** Octubre 2024
 
 ---
