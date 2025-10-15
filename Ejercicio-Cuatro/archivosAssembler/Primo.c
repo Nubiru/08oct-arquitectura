@@ -1,4 +1,4 @@
-# 7.- Generar en Google Colab, con la IA, la misma versión de problema, pero resuelto en C
+# 7 Generar en Google Colab, con la IA, la misma versión de problema, pero resuelto en C
 
 %%shell
 # Guarda el código C en un archivo

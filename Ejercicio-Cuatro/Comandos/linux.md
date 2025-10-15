@@ -1,4 +1,4 @@
-#5.- Pegar las sentencias usadas en linux para compilar y linkear
+#5 Pegar las sentencias usadas en linux para compilar y linkear
 
 nasm -f elf64 your_assembly_file.asm -o your_object_file.o
 

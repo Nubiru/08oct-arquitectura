@@ -1,4 +1,4 @@
-#8.- Ejecutar y obtener el programa en lenguaje ensamblador del item 7.
+#8 Ejecutar y obtener el programa en lenguaje ensamblador del item 7.
 
 %%shell
 # Genera el archivo de ensamblador (.s) a partir del código C

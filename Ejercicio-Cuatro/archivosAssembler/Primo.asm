@@ -1,4 +1,4 @@
-#2.- Implementar en linux. De no tener uno, usar Google Colab
+#2 Implementar en linux. De no tener uno, usar Google Colab
 
 .MODEL SMALL
 .STACK 100h

@@ -1,4 +1,4 @@
-#6.- Investigar y agregar sentencias para ingresar valores por teclado en un par de ejercicios.
+#6 Investigar y agregar sentencias para ingresar valores por teclado en un par de ejercicios.
 
 .MODEL SMALL
 .STACK 100h
@@ -14,7 +14,7 @@
 
 .CODE
 
-; --- PROCEDIMIENTO PARA LEER NÚMERO DESDE TECLADO ---
+; PROCEDIMIENTO PARA LEER NÚMERO DESDE TECLADO
 LEER_NUMERO PROC
     ; Mostrar mensaje de entrada
     MOV AH, 09h
