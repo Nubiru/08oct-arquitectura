@@ -1,0 +1,1 @@
+ld -m elf_i386 sum_array.o -o sum_array
